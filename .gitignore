@@ -2,3 +2,14 @@ node_modules/
 .env
 # Local Netlify folder
 .netlify
+.env.local
+.env.*.local
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+package-lock.json
+yarn.lock
